@@ -8,7 +8,7 @@ import (
 	"github.com/Yandex-Practicum/go1fl-sprint6-final/internal/handlers"
 )
 
-type ServerMain struct {git add .
+type ServerMain struct {
 	Logger *log.Logger
 	Server *http.Server
 }
